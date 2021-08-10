@@ -1,0 +1,1 @@
+# karate-read-bug-json
